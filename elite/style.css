@@ -1,0 +1,24 @@
+.container{
+    color: blue;
+    border-block-color: red;
+}
+button{
+    border-radius: 10px;
+    color: white;
+    background-color: blue;
+}
+.container{
+    background-size:100%;
+    position: absolute;
+    width: 100vw;
+}
+body{
+    background: linear-gradient(120deg,#2980);
+    height: 100vh;
+    overflow:hidden;
+}
+.container{
+    top:30%;
+    transform-box: initial;
+    text-decoration: solid;
+}
